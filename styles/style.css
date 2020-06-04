@@ -1,0 +1,19 @@
+@import url(../styles/blocks/lead/lead.css);
+@import url(../styles/fonts/inter.css);
+@import url(../styles/blocks/header/header.css);
+@import url(../styles/blocks/intro/intro.css);
+@import url(../styles/blocks/photo-grid/photo-grid.css);
+@import url(../styles/blocks/places/places.css);
+@import url(../styles/blocks/video/video.css);
+@import url(../styles/blocks/comment/comment.css);
+@import url(../styles/blocks/comments/comments.css);
+@import url(../styles/blocks/cover/cover.css);
+@import url(../styles/blocks/footer/footer.css);
+@import url(../styles/blocks/content-subtitle/content-subtitle.css);
+@import url(../styles/blocks/content-title/content-title.css);
+@import url(../styles/blocks/logo/logo.css);
+body{
+    background-color:#2A2C2F;
+    font-family: 'inter', Arial, Helvetica, sans-serif;
+}
+

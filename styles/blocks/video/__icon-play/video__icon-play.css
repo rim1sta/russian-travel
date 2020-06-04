@@ -1,0 +1,22 @@
+
+@import url(../__icon-play/_kamchatka/video__icon-play_kamchatka.css);
+
+.video__icon-play {
+  height: 41px;
+  margin-top: 30px;
+  margin-left: 30px;
+  z-index:1;
+  position: relative;
+}
+@media screen and (max-width:980px){
+  .video__icon-play{
+   margin-top: 25px;
+   margin-left: 24px;
+  }
+}
+@media screen and (max-width:360px){
+  .video__icon-play{
+    margin-top: 16px;
+    margin-left: 16px;
+  }
+}

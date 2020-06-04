@@ -1,0 +1,20 @@
+.video__item-subtitle{
+    position: relative;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 15px;
+    margin-left: 30px;
+    color: #FFFFFF;
+    z-index: 1;
+  }
+  @media screen and (max-width:980px){
+    .video__item-subtitle{
+      margin-left: 24px;
+    }
+  }
+  @media screen and (max-width:360px){
+    .video__item-subtitle{
+      margin-left: 16px;
+    }
+  }

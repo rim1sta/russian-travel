@@ -1,0 +1,14 @@
+@import url(../comments/__container/comments__container.css);
+
+.comments {
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+}
+@media screen and (max-width:375px){
+    .comments{
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+}

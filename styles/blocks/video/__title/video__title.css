@@ -1,0 +1,32 @@
+.video__title {
+  margin: 30px auto 48px;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 78px;
+  color: #FFFFFF;
+  align-items: center;
+  text-align: center;
+  max-width: 800px;
+}
+@media screen and (max-width:768px){
+  .video__title{
+    margin-bottom: 24px;
+    font-size: 42px;
+    line-height: 46px;
+  }
+}
+@media screen and (max-width:760px){
+  .video__title{
+    margin-top: 4px;
+  }
+}
+@media screen and (max-width:375px){
+  .video__title{
+    max-width: 343px;
+    margin-bottom: 16px;
+    font-size: 32px;
+line-height: 35px;
+ margin-top: 26px;
+  }
+}

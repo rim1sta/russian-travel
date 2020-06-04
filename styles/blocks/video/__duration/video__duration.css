@@ -1,0 +1,32 @@
+
+
+.video__duration {
+  position: relative;
+width: 44px;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 13px;
+letter-spacing: 0.3em;
+margin-top: 94px;
+margin-bottom: 12px;
+margin-left: 30px;
+color: #FFFFFF;
+z-index: 1;
+}
+@media screen and (max-width:1270px){
+  .video__duration{
+   margin-top: 54px;
+  }
+}
+
+@media screen and (max-width:980px){
+  .video__duration{
+    margin-top: 36px;
+  }
+}
+@media screen and (max-width:360px){
+  .video__duration{
+    margin-left: 16px;
+  }
+}

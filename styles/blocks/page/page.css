@@ -1,0 +1,11 @@
+
+.page{
+        margin-left: 48px;
+        margin-right: 48px;
+    }
+    @media sreen and(max-width: 1024px){
+        .page{
+            margin-left: 48px;
+            margin-right: 48px;
+        }
+    }

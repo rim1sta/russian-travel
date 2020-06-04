@@ -1,0 +1,17 @@
+.intro__text-atrractions {
+    max-width: 383px;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+@media screen and (max-width:375px){
+    .intro__text-atrractions{
+    font-size: 12px;
+line-height: 19px;
+}
+}
